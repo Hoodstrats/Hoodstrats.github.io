@@ -12,7 +12,7 @@ title: Hoodstrats Odds And Ends
 author: Hoodstrats
 
 # --- List of links in the navigation bar --- #
-
+# To add more pages and link them here just add an HTML or MD file to the repo and link it here like the ABOUT ME is linked #
 navbar-links:
   About Me: "aboutme"
   Resources:
