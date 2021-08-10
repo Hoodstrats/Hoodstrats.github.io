@@ -11,7 +11,7 @@ share-img: /assets/img/lad/BL3ICON.png
 {: .box-note}
 **Note:** v1.0.0
 
-![Link](LADReleases)
+[Link](LADReleases)
 
 This is a simple app I made to keep track of my farm runs in Borderlands. I designed the app to accomplish just a couple tasks. Here are the key features I added and needed to have.
 
