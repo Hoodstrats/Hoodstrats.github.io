@@ -35,7 +35,7 @@ This is all done without having to ever leave the game to manually increase your
 
 4. You can toggle STREAMER MODE on or off and it will automatically create a TEMPLOG.TXT. If you're using OBS add the text file to a TEXT GDI+ source and read from file.       
 
-   - All your saves and config will be located in "Current Folder the program is in\Logs\"  you can click the help text towards the bottom to see Keybindings which are.
+   - All your saves and config will be located in "Current Folder the program is in" + "\Logs\"  you can click the help text towards the bottom to see Keybindings which are.
 
 5. Checking Increase CPU priority will set borderlands process priority to HIGH in windows task manager.  Just incase you need that extra FPS boost.
 
