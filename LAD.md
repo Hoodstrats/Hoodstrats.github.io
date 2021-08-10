@@ -60,9 +60,9 @@ This is all done without having to ever leave the game to manually increase your
 
 # Requirements
 
-## .NETFramework,Version=v4.7.2
+### .NETFramework,Version=v4.7.2
 
-## Currently only for Windows
+### Currently only for Windows
 
 <br>
 
