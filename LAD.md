@@ -8,7 +8,7 @@ cover-img: /assets/img/lad/CoverImage.png
 nav-short: true
 share-img: /assets/img/lad/BL3ICON.png
 ---
-{: .box-note}
+{: .box-warning}
 **Note:** [Releases](https://hoodstrats.github.io/LADReleases)
 
 This is a simple app I made to keep track of my farm runs in Borderlands. I designed the app to accomplish just a couple tasks. Here are the key features I added and needed to have.
@@ -49,16 +49,16 @@ This is all done without having to ever leave the game to manually increase your
 
 ### These will work as long as the program is running
 
-    - END: Starts and Pauses the Timer
-    - HOME: Increases Run count
-    - PGDOWN: Increases Drop count
-    - PGUP: Increases Kept count
+ - END: Starts and Pauses the Timer
+ - HOME: Increases Run count
+ - PGDOWN: Increases Drop count
+ - PGUP: Increases Kept count
 
 ### These will work when the program has focus
 
-    - CTRL+S: manually saves current information    
-    - CTRL+N: ceate a NEW save log    
-    - CTRL+O: opens current active farm log 
+  - CTRL+S: manually saves current information    
+ - CTRL+N: ceate a NEW save log    
+ - CTRL+O: opens current active farm log 
 
 <br>
 
