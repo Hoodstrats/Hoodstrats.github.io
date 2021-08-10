@@ -8,7 +8,7 @@ cover-img: /assets/img/lad/CoverImage.png
 nav-short: true
 ---
 {: .box-note}
-**Note:** v1.0.0.
+**Note:** v1.0.0
 
 This is a simple app I made to keep track of my farm runs in Borderlands. I designed the app to accomplish just a couple tasks. Here are the key features I added and needed to have.
 
@@ -63,9 +63,9 @@ This is all done without having to ever leave the game to manually increase your
 
 # Requirements
 
-### .NETFramework,Version=v4.7.2
+**.NETFramework,Version=v4.7.2**
 
-### Currently only for Windows
+**Currently only for Windows**
 
 <br>
 
