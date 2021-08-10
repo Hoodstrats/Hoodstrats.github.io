@@ -3,9 +3,9 @@ layout: page
 title: Looter Automatic Database
 subtitle: Looter Shooter Farming Tool.
 tags: [project,programming,tool]
-thumbnail-img: /assets/img/BL3ICON.png
+thumbnail-img: /assets/img/lad/BL3ICON.png
+cover-img: /assets/img/lad/CoverImage.png
 ---
-
 This is a simple app I made to keep track of my farm runs in Borderlands. I designed the app to accomplish just a couple tasks. Here are the key features I added and needed to have.
 
 - Elapsed timer to keep track of total time spent farming "X"
@@ -22,35 +22,49 @@ This is a simple app I made to keep track of my farm runs in Borderlands. I desi
 
 
 This is all done without having to ever leave the game to manually increase your counter in a notepad or anything. When the program is open and running you can use keybindings (like window's print screen) to handle increase run counter, pausing timer, etc.
- How to use
 
-- UNZIP the program wherever you like (no need to install or anything it is self contained)
+<br>
 
-- Click FARM NAME to input you're run name, adjust Mayhem level accordingly.
+# How to use
 
-- DROP TABLE hyperlink will take you to community google doc with current Borderlands 3 drop information
+1. UNZIP the program wherever you like (no need to install or anything it is self contained)
 
-- You can toggle STREAMER MODE on or off and it will automatically create a TEMPLOG.TXT. If you're using OBS add the text file to a TEXT GDI+ source and read from file.       
+2. Click FARM NAME to input you're run name, adjust Mayhem level accordingly.
+
+3. DROP TABLE hyperlink will take you to community google doc with current Borderlands 3 drop information
+
+4. You can toggle STREAMER MODE on or off and it will automatically create a TEMPLOG.TXT. If you're using OBS add the text file to a TEXT GDI+ source and read from file.       
 
    - All your saves and config will be located in "Current Folder the program is in\Logs\"  you can click the help text towards the bottom to see Keybindings which are.
 
-- Checking Increase CPU priority will set borderlands process priority to HIGH in windows task manager.  Just incase you need that extra FPS boost.
- Keybinds
+5. Checking Increase CPU priority will set borderlands process priority to HIGH in windows task manager.  Just incase you need that extra FPS boost.
 
-These will work as long as the program is running
+<br>
+
+# Keybinds
+
+### These will work as long as the program is running
 
     - END: Starts and Pauses the Timer
     - HOME: Increases Run count
     - PGDOWN: Increases Drop count
     - PGUP: Increases Kept count
 
-These will work when the program has focus
+### These will work when the program has focus
 
-- CTRL+N: ceate a NEW save log    
-- CTRL+S: manually saves current information    
-- CTRL+O: opens current active farm log 
+    - CTRL+S: manually saves current information    
+    - CTRL+N: ceate a NEW save log    
+    - CTRL+O: opens current active farm log 
 
-Requirements
+<br>
 
- .NETFramework,Version=v4.7.2
- Currently only for Windows
+# Requirements
+
+ ## .NETFramework,Version=v4.7.2
+ ## Currently only for Windows
+
+<br>
+
+# Screenshots
+![Example1](assets/img/lad/SS1.png)
+![Example2](assets/img/lad/SS2.png)
