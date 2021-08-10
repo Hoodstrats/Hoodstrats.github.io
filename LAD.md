@@ -2,6 +2,8 @@
 layout: page
 title: Looter Automatic Database
 subtitle: Looter Shooter Farming Tool.
+tags: [project,programming,tool]
+thumbnail-img: /assets/img/BL3ICON.png
 ---
 
 This is a simple app I made to keep track of my farm runs in Borderlands. I designed the app to accomplish just a couple tasks. Here are the key features I added and needed to have.
