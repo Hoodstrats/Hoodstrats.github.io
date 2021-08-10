@@ -1,7 +1,6 @@
 ---
-layout: post
-title: TEST POST
-subtitle: WE TESTING
-tags: [books, test]
+layout: page
+title: L.A.D Releases
+tags: [project,programming,tool]
 ---
 This is a test to see if this works.
