@@ -8,7 +8,7 @@ cover-img: /assets/img/lad/CoverImage.png
 nav-short: true
 share-img: /assets/img/lad/BL3ICON.png
 ---
-{: .box-warning}
+{: .box-error}
 **Note:** [Releases](https://hoodstrats.github.io/LADReleases)
 
 This is a simple app I made to keep track of my farm runs in Borderlands. I designed the app to accomplish just a couple tasks. Here are the key features I added and needed to have.
