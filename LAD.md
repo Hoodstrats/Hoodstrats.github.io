@@ -5,6 +5,7 @@ subtitle: Looter Shooter Farming Tool.
 tags: [project,programming,tool]
 thumbnail-img: /assets/img/lad/BL3ICON.png
 cover-img: /assets/img/lad/CoverImage.png
+nav-short: true
 ---
 This is a simple app I made to keep track of my farm runs in Borderlands. I designed the app to accomplish just a couple tasks. Here are the key features I added and needed to have.
 
@@ -19,7 +20,6 @@ This is a simple app I made to keep track of my farm runs in Borderlands. I desi
 - CPU priority checkbox that pushes Borderlands process to High in windows task manager
 - No need to focus the program in order to operate it's basic functions such as increase run count etc
 - Access the Borderlands drop table created by the community 
-
 
 This is all done without having to ever leave the game to manually increase your counter in a notepad or anything. When the program is open and running you can use keybindings (like window's print screen) to handle increase run counter, pausing timer, etc.
 
@@ -60,8 +60,9 @@ This is all done without having to ever leave the game to manually increase your
 
 # Requirements
 
- ## .NETFramework,Version=v4.7.2
- ## Currently only for Windows
+## .NETFramework,Version=v4.7.2
+
+## Currently only for Windows
 
 <br>
 
