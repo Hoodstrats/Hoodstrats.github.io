@@ -15,13 +15,13 @@ author: Hoodstrats
 # To add more pages and link them here just add an HTML or MD file to the repo and link it here like the ABOUT ME is linked #
 navbar-links:
   About Me: "aboutme"
+  Projects:
+    - L.A.D: "LAD"
   Links:
     - Studio Twitter: "https://twitter.com/studiogachapon"
     - Studio ItchIO: "https://studiogachapon.itch.io/"
     - My Twitch Page: "https://www.twitch.tv/hoodstrats"
     - Our Discord: "https://discord.gg/bX3Ex2WZV7"
-  Projects:
-    - L.A.D: "LAD"
   #Author's home: "https://twitter.com/hoodstrats"
 
 # --- Logo --- #
