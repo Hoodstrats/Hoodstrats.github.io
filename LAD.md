@@ -12,7 +12,7 @@ share-img: /assets/img/lad/BL3ICON.png
 **Note:** [Releases](https://hoodstrats.github.io/LADReleases)
 
 This is a simple app I made to keep track of my farm runs in Borderlands. I designed the app to accomplish just a couple tasks. Here are the key features I added and needed to have.
-
+~~~
 - Elapsed timer to keep track of total time spent farming "X"
 - Track the name of the weapon/enemy you're currently farming and on what Mayhem level
 - The amount of runs you've done
@@ -24,13 +24,13 @@ This is a simple app I made to keep track of my farm runs in Borderlands. I desi
 - CPU priority checkbox that pushes Borderlands process to High in windows task manager
 - No need to focus the program in order to operate it's basic functions such as increase run count etc
 - Access the Borderlands drop table created by the community 
-
+~~~
 This is all done without having to ever leave the game to manually increase your counter in a notepad or anything. When the program is open and running you can use keybindings (like window's print screen) to handle increase run counter, pausing timer, etc.
 
 <br>
 
 # How to use
-
+---
 1. UNZIP the program wherever you like (no need to install or anything it is self contained)
 2. Click FARM NAME to input you're run name, adjust Mayhem level accordingly.
 3. DROP TABLE hyperlink will take you to community google doc with current Borderlands 3 drop information
@@ -41,24 +41,24 @@ This is all done without having to ever leave the game to manually increase your
 <br>
 
 # Keybinds
-
+---
 ### These will work as long as the program is running
-
+~~~
  - END: Starts and Pauses the Timer
  - HOME: Increases Run count
  - PGDOWN: Increases Drop count
  - PGUP: Increases Kept count
-
+~~~
 ### These will work when the program has focus
-
-  - CTRL+S: manually saves current information    
+~~~
+ - CTRL+S: manually saves current information    
  - CTRL+N: ceate a NEW save log    
  - CTRL+O: opens current active farm log 
-
+~~~
 <br>
 
 # Requirements
-
+---
 **.NETFramework,Version=v4.7.2**
 
 **Currently only for Windows**
@@ -66,5 +66,6 @@ This is all done without having to ever leave the game to manually increase your
 <br>
 
 # Screenshots
+---
 ![Example1](assets/img/lad/SS1.png)
 ![Example2](assets/img/lad/SS2.png)
