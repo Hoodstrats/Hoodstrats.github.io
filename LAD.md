@@ -4,7 +4,6 @@ title: Looter Automatic Database
 subtitle: Looter Shooter Farming Tool.
 tags: [project,programming,tool]
 thumbnail-img: /assets/img/lad/BL3ICON.png
-cover-img: /assets/img/lad/CoverImage.png
 nav-short: true
 share-img: /assets/img/lad/BL3ICON.png
 ---
