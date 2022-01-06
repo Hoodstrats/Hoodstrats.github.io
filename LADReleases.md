@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: grid
 title: L.A.D Releases
 tags: [project,programming,tool]
 ---
