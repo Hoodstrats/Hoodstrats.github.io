@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: L.A.D Releases
 tags: [project,programming,tool]
 thumbnail-img: /assets/img/lad/BL3ICON.png
