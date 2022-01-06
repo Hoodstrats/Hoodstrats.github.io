@@ -4,5 +4,5 @@ title: Projects
 tags: [project,programming]
 ---
 
-
-[![Semantic description of image](/assets/img/lad/BL3ICON.png)*Looter Shooter Companion*][https://hoodstrats.github.io/LAD/]
+[<img src="assets/img/lad/BL3ICON.png">](https://hoodstrats.github.io/LAD/)
+###### Looter Shooter Companion APP
