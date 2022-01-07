@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Projects
 tags: [project,programming]
 ---
 
@@ -9,31 +8,27 @@ tags: [project,programming]
 | [*Looter Shooter Companion APP*](https://hoodstrats.github.io/LADReleases) |  [*Looter Shooter Companion APP*](https://hoodstrats.github.io/LADReleases) | [*Looter Shooter Companion APP*](https://hoodstrats.github.io/LADReleases) |
 
 
-
-
-## Table Styling in Markdown
-
-<style>
-.heatMap {
-    width: 70%;
-    text-align: center;
-}
-.heatMap th {
-background: grey;
-word-wrap: break-word;
-text-align: center;
-}
-.heatMap tr:nth-child(1) { background: red; }
-.heatMap tr:nth-child(2) { background: orange; }
-.heatMap tr:nth-child(3) { background: green; }
-</style>
-
-<div class="heatMap">
-
-| Everything | in this table | is Centered |  and the table will only take up 70% of the screen width  | 
-| -- | -- | -- | -- |
-| This | is | a | Red Row |
-| This | is | an | Orange Row |
-| This | is | a | Green Row |
-
-</div>
+<table>
+  <tr>
+    <th><a href="https://hoodstrats.github.io/LADReleases">
+  <img alt="LADReleases" src="assets/img/lad/BL3ICON.png">
+</a></th>
+    <th>Header 1</th>
+    <th>Last</th>
+  </tr>
+<tr style="background-color:282828" align=center>
+    <td>First</td>
+    <td>Second</td>
+    <td>Third</td>
+  </tr>
+  <tr style="background-color:282828" align=center>
+    <td>First</td>
+    <td>Second</td>
+    <td>Third</td>
+  </tr>
+  <tr style="background-color:282828" align=center>
+    <td>Another</td>
+    <td>Thing</td>
+    <td>Here</td>
+  </tr>
+</table>
