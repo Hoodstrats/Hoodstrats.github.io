@@ -1,36 +1,14 @@
 ---
-layout: page
-tags: [project,programming]
+layout: post2
+title: TEST POST
+subtitle: WE TESTING
+tags: [books, test]
 ---
 
+![BL3ICON.PNG](assets/img/lad/BL3ICON.png) 
 
-|                 ![BL3ICON.PNG](assets/img/lad/BL3ICON.png)                 |                 ![BL3ICON.PNG](assets/img/lad/BL3ICON.png)                 |                 ![BL3ICON.PNG](assets/img/lad/BL3ICON.png)                 |
-| :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| [*Looter Shooter Companion APP*](https://hoodstrats.github.io/LADReleases) | [*Looter Shooter Companion APP*](https://hoodstrats.github.io/LADReleases) | [*Looter Shooter Companion APP*](https://hoodstrats.github.io/LADReleases) |
+[*Looter Shooter Companion APP*](https://hoodstrats.github.io/LAD)
 
-
-
-<br>
-
-<table>
-<tr style="background-color:282828" align=center>
-    <td><a href="https://hoodstrats.github.io/LADReleases">
-  <img alt="LADReleases" src="assets/img/lad/BL3ICON.png">
-</a></td>
-    <td>Second</td>
-    <td>Third</td>
-  </tr>
-  <tr style="background-color:282828" align=center>
-    <td>First</td>
-    <td>Second</td>
-    <td>Third</td>
-  </tr>
-  <tr style="background-color:282828" align=center>
-    <td>Another</td>
-    <td>Thing</td>
-    <td>Here</td>
-  </tr>
-</table>
 
 
 
