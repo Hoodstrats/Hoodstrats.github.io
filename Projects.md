@@ -4,14 +4,14 @@ tags: [project,programming]
 ---
 
 
-| ![BL3ICON.PNG](assets/img/lad/BL3ICON.png)         | ![BL3ICON.PNG](assets/img/lad/BL3ICON.png) | ![BL3ICON.PNG](assets/img/lad/BL3ICON.png) |
-|:-------------:|:-----:|:-----------:|
-| [*Looter Shooter Companion APP*](https://hoodstrats.github.io/LADReleases) |  [*Looter Shooter Companion APP*](https://hoodstrats.github.io/LADReleases) | [*Looter Shooter Companion APP*](https://hoodstrats.github.io/LADReleases) |
+|                 ![BL3ICON.PNG](assets/img/lad/BL3ICON.png)                 |                 ![BL3ICON.PNG](assets/img/lad/BL3ICON.png)                 |                 ![BL3ICON.PNG](assets/img/lad/BL3ICON.png)                 |
+| :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| [*Looter Shooter Companion APP*](https://hoodstrats.github.io/LADReleases) | [*Looter Shooter Companion APP*](https://hoodstrats.github.io/LADReleases) | [*Looter Shooter Companion APP*](https://hoodstrats.github.io/LADReleases) |
 
 
 
+<br>
 
-{::nomarkdown}
 <table>
   <tr>
     <th><a href="https://hoodstrats.github.io/LADReleases">
@@ -36,7 +36,7 @@ tags: [project,programming]
     <td>Here</td>
   </tr>
 </table>
-{:/}
+
 
 
 
