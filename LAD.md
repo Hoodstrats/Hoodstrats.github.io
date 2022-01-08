@@ -53,7 +53,7 @@ This is all done without having to ever leave the game to manually increase your
 
 ## Requirements
 ---
-- **.NETFramework,Version=v4.7.2**
+- **[>= .NETFramework,Version v4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework)**
 
 - **Currently only for Windows**
 
