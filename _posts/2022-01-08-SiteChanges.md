@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Actual Update?
+title: An Actual Update?
 subtitle: Trying to organize the site
 tags: [projects, general,update,website]
 ---
