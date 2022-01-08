@@ -2,10 +2,70 @@
 layout: page
 title: L.A.D Releases
 tags: [project,programming,tool]
-thumbnail-img: /assets/img/lad/BL3ICON.png
-nav-short: true
-share-img: /assets/img/lad/BL3ICON.png
 ---
-Once the projects are ready to be uploaded fully to GIT the releases will be posted here. 
 
 `TODO: Upload and post the releases on Git`
+
+Once the project is ready to be uploaded fully to GIT the releases will be posted here. 
+For now you can grab the original version 0.1 at the [ITCH.IO PAGE](https://hoodstrats.itch.io/bl3-farming-companion)
+
+---
+##### Patch notes for the Current version at the ITCHIO page
+###### This is the very first version and a lot has changed 
+```
+--------------------------------OLD PATCH NOTES BEFORE REVAMP---------------------------------------------------------
+6/26
+- Program now renamed to B.A.D (Borderlands automatic database)
+- Renamed FARM LABEL to help user better understand what to do
+- Farm name input box automatically becomes active when program is first opened 
+
+[Dev Patch 4/15 - 4/26]
+- Fixed
+	- Farm name variable changes when farm name is input so that streamer mode save gets name
+	- Elapsed time functionality switched to stopwatch useage for consistancy 
+		- Prevents from updating regardless of timer being stopped/program reset
+	- Reseting the run now correctly clears all data from program 
+	- Toggling streamer mode no longer auto saves data 
+		- Save controller now has seperate function for streamer mode 
+	- Opening a log opens program directory if log doesn't exist
+		- Added seperate directory for config and files 
+
+- Added checkbox to increase CPU priority of the game to HIGH
+	
+- Added streamer mode (toggle) to program to stream data directly to notepad for OBS TEXT OBJECT
+	- On programs tick function if streamer mode is enabled it'll create temp save file and write there in realtime (per tick)
+	
+- Added mayhem level dropdown up to 10 
+	- Added this info to save file
+
+- Configured the save data with more splitters like "x|x|x|x|x|x"
+
+- Added JSON configuration file to keep track of program data
+	- Keep logindex value
+	- Keep optimize states whether or not to set the CPU priority etc
+	- Remembers current save file to avoid issues with missing file
+	
+- Added Pressing CTRL+N creates a new LOG and the program starts saving there instead
+	- Reworked how the save system gets its information (gets directly from Companion.cs)
+	- File system creation adjusted to account for multiple save files
+
+- Changed main namespace to (Hood.Core)
+
+- Added error catcher script, extends windows ERRORPROVIDER 
+	- If farm name is left blank
+	- If LOG is being accessed in anyway before it's even created
+
+- Removed visual style enabler in Program.cs for windows 95 look
+
+- Added new hotkey combination functions
+	- Pressing CTRL+S Manually saves farm log
+	- Pressing CTRL+O opens current log
+
+- renamed main form (Form1 is no longer)
+
+- removed dead code 
+
+- cleaned up switch statement that hands text input
+
+- removed DING sound when submitting after entering new text (pressing enter)
+```
