@@ -23,6 +23,6 @@ Just a bunch of stuff that I would love to, at some point convert into posts for
 
 I also started working on a GUI version (with interface) in GODOT, which I will be uploading soon. It started out as a practice project, to experiment using Godot's C# implementation and it's interface framework. Many many many hoops were jumped through, but I'll go into detail when that project gets uploaded
 
-That's all for now. Over the new few days or so, expect things to be moved around and random changes happening throughout the site. 
+That's all for now. Over the next few days or so, expect things to be moved around and random changes happening throughout the site. 
 
 
