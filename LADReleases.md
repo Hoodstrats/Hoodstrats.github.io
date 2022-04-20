@@ -3,17 +3,31 @@ layout: page
 title: L.A.D Releases
 tags: [project,programming,tool]
 ---
+`RELEASE`
+[V1.0.1](https://github.com/Hoodstrats/L.A.D/releases/tag/v1.0.1)
 
-`TODO: Upload and post the releases on Git`
+```
+This is a re-release of the first version which I also released on ITCH.IO sometime last year. Fixed a couple issues and added a some features that were meant to be in on release.
 
-Once the project is ready to be uploaded fully to GIT the releases will be posted here. 
-For now you can grab the original version 0.1 at the [ITCH.IO PAGE](https://hoodstrats.itch.io/bl3-farming-companion)
+7-1-21
+
+Added: Version label at the bottom right of the interface (links to patch notes when clicked)
+
+Fixed: Removed all the material theme package components and fixed all the broken code (all of it pretty much)
+
+Fixed: Merged all the changes made in the DEV PATCH MADE BETWEEN 4/15 - 4/26 (before the app was broken)
+
+Change: Renamed to L.A.D (Looter Automated Database) since will be generalizing it
+```
 
 ---
 ##### Patch notes for the Current version at the ITCHIO page
-###### This is the very first version and a lot has changed 
+###### This is the very first version and a lot has changed
+
 ```
---------------------------------OLD PATCH NOTES BEFORE REVAMP---------------------------------------------------------
+---
+OLD PATCH NOTES BEFORE REVAMP
+---
 6/26
 - Program now renamed to B.A.D (Borderlands automatic database)
 - Renamed FARM LABEL to help user better understand what to do
