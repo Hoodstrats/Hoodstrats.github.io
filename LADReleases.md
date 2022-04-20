@@ -7,7 +7,8 @@ tags: [project,programming,tool]
 [V1.0.1](https://github.com/Hoodstrats/L.A.D/releases/tag/v1.0.1)
 
 ```
-This is a re-release of the first version which I also released on ITCH.IO sometime last year. Fixed a couple issues and added a some features that were meant to be in on release.
+This is a re-release of the first version which I also released on ITCH.IO sometime last year.
+Fixed a couple issues and added a some features that were meant to be in on release.
 
 7-1-21
 
