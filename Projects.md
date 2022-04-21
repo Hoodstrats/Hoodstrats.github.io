@@ -7,4 +7,4 @@ layout: page
 | [*Looter Shooter Companion APP*](https://github.com/Hoodstrats/L.A.D) | [*Spotlight Wallpaper Grabber CLI TOOL*](https://www.nuget.org/packages/SpotYoink/) |
 |             ![YIconGodot.PNG](assets/img/YIconGodot.png)             |
 | :----------------------------------------------------------------: | :---------------------------------------------------------------------------------: |  |
-| [*Spotlight Grabber Godot GUI*](https://hoodstrats.github.io/SpotYoinkGD)
+| [*Spotlight Grabber Godot GUI*](https://github.com/Hoodstrats/SpotYoinkGD)
