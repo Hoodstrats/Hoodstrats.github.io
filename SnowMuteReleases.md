@@ -21,7 +21,7 @@
 	- Mute, Unmute and Exit
 - The mute button itself (the whole program is a mute button) actually works now
 
-###Change
+### Change
 - Tray icon now needs to be double clicked in order to restore program
 - Exiting the program normally still triggers exit message/delay
 - Refactored all mute toggling functionality
