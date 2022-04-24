@@ -14,7 +14,7 @@ Once you run the program, you can minimize it and it'll sit in your task bar. Fr
 - You can also click the APP itself (it's essentially a giant button)
 
 [*SnowMute*](https://github.com/Hoodstrats/SnowMute) |
-[PatchNotes](https://hoodstrats.github.io/LADReleases)
+[PatchNotes](https://hoodstrats.github.io/SnowMuteReleases)
 
 ***These can be changed under File>Settings, but the program does require a restart after applying changes.
 This is due to the way in which the Key binds are set. They are registered in Windows so that they're able to 
