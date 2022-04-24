@@ -13,10 +13,7 @@ Once you run the program, you can minimize it and it'll sit in your task bar. Fr
 - Ctrl+Q = Quit the program 
 - You can also click the APP itself (it's essentially a giant button)
 
-
-|             ![MicMuterIcon.PNG](assets/img/Snowball.png)              |
-| :----------------------------------------------------------------: | :---------------------------------------------------------------------------------: |  |
-|[*SnowMute*](https://github.com/Hoodstrats/SnowMute) |
+[*SnowMute*](https://github.com/Hoodstrats/SnowMute) |
 [PatchNotes](https://hoodstrats.github.io/LADReleases)
 
 ***These can be changed under File>Settings, but the program does require a restart after applying changes.
