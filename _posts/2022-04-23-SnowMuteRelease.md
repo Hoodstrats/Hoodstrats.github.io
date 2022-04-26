@@ -2,7 +2,7 @@
 layout: post
 title: Another small Release?
 subtitle: Added one more to the Pile
-tags: [projects, general,update,website]
+tags: [projects, general,update]
 ---
 
 Another update so fast? It's only been like what, 3 days? This is definitely a new record but a pace like this is probably something I can't sustain. Today I bring you another small program I just put the finishing touches on (good enough for release, I hope). If you haven't noticed by now, usually with most of my projects (the non gaming ones) I'm usually trying to solve a niche problem I've run into but they're specific use cases most the time. In the case of this small tool it was to add a virtual MUTE button to the Blue Yeti Snowball mic, since it doesn't have a physical one. This works with any Microphone since it's based on whatever default Input device Windows has set.

@@ -2,7 +2,7 @@
 layout: post
 title: Finally Some Content?
 subtitle: Releasing more Garbage
-tags: [projects, general,update,website]
+tags: [projects, general,update]
 ---
 
 Yo. It's been a while hasn't it? About 3 months to be exact. So where have I been? To be honest mostly gaming and chilling in different Twitch chats. It's been a long time coming but Burn out hit hard recently. So for my own sanity, I decided to forego battling bugs to battling random enemies in games. Most recently I've really gotten into Lost Ark but that's an entire can of Worms I prefer not to open. None of this really matters because I've come bearing gifts (if you can call it that). I've finally put together some of my projects and setup their respective repos. I was thinking of making seperate posts for each of these, discussing some of their features but for now their README files should suffice. 

@@ -47,7 +47,7 @@ social-network-links:
 # facebook: hoodstrats
   github: hoodstrats
   twitter: hoodstrats
-#  patreon: DeanAttali
+  patreon: hoodstrats
 #  youtube: c/hoodstrats
 #  medium: yourname
 #  reddit: yourname
@@ -60,6 +60,7 @@ social-network-links:
 #  telephone: +14159998888
 #  steam: deanat78
   twitch: hoodstrats
+  kofi: hoodstrats
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
@@ -114,6 +115,7 @@ footer-col: "#395639"
 footer-text-col: "#aaaaaa"
 footer-link-col: "#282828"
 
+# Old color codes right here
 #navbar-col: "#383c4a"
 #navbar-text-col: "#ffffff"
 #navbar-border-col: "#2f343f"
