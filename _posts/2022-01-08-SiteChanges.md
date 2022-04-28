@@ -6,11 +6,11 @@ tags: [projects, general,update,website]
 ---
 
 Yo. You probably made it here from my [Twitch Page](twitch.tv/hoodstrats). Welcome to the Project Graveyard, that's housed within another graveyard, this site. 
-Just like many of my other projects this website quickly became a side project and put in the back burner. I'm finally starting to wrap up a lot of my other projects, mostly ones that are pretty much done but never got around to "finishing" them. I'm revamping the projects page with links to all my stuff and might eventually
-make that the home page. This blog page will have it's own section but most the site updates are going to occur within that projects page. I have been keeping notes
+Just like many of my other projects this website quickly became a side project and put in the back burner. I'm finally starting to wrap up a lot of my other projects, mostly ones that are pretty much done, but never got around to "finishing" them. I'm revamping the projects page with links to all my stuff and might eventually
+make that the home page. This blog page will have it's own section, but most the site updates are going to occur within that projects page. I have been keeping notes
 on all my projects, stuff that I've learned along the way including:
 
-- C# in general, so many bugs and fixes that I never found answers to but managed to "hack" some together
+- C# in general, so many bugs and fixes that I never found answers to, but managed to "hack" some together
 - Tips for Gamedev in general, like Unity program structures and commonly used programming patterns
 - Unity quirks that some tutorials don't cover
 - Godot engine stuff especially when it comes to the C# implementation
