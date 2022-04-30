@@ -10,9 +10,7 @@ share-img: /assets/img/Snowball.png
 **Note:** [Releases](https://github.com/Hoodstrats/SnowMute)
 
 ##### Simple Global Mic Muter
-
 ---
-
 This program started out as a solution to the Yeti Snowball's non existing Mute button.
 I decided to expand on it, so it now works for any input device and I added some QOL features as well. 
 
