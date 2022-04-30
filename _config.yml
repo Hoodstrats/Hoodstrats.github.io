@@ -20,12 +20,13 @@ navbar-links:
     - SpotYoinkGUI:  "SpotYoinkGD"
     - SnowMute: "SnowMute"
     # Add a grid page thats basically the old projects page
-  Links:
+  Socials:
     - Twitch: "https://www.twitch.tv/hoodstrats"
     - Twitter: "https://www.twitter.com/hoodstrats"
     - Studio Twitter: "https://twitter.com/studiogachapon"
     - Studio ItchIO: "https://studiogachapon.itch.io/"
     - Studio Discord: "https://discord.gg/bX3Ex2WZV7"
+  Repos: "Projects"
       #About Me: "aboutme"
   #Author's home: "https://twitter.com/hoodstrats"
 
