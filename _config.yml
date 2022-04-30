@@ -16,7 +16,7 @@ author: Hoodstrats
 navbar-links:
   Projects: 
     - L.A.D: "LAD"
-    - SpotYoink: "/pages/SpotYoinkCLI"
+    - SpotYoink: "SpotYoinkCLI"
     # Add a grid page thats basically the old projects page
   Links:
     - Twitch: "https://www.twitch.tv/hoodstrats"
@@ -234,7 +234,7 @@ defaults:
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
-      path: "/pages/" # any file that's not a post will be a "page" layout by default
+      path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
 
