@@ -14,7 +14,10 @@ author: Hoodstrats
 # --- List of links in the navigation bar --- #
 # To add more pages and link them here just add an HTML or MD file to the repo and link it here like the ABOUT ME is linked #
 navbar-links:
-  Projects: "Projects"
+  Projects: 
+    - L.A.D: "https://www.hoodstrats.github.io/LAD"
+    - SpotYoink: "https://www.hoodstrats.github.io/SpotYoinkCLI"
+    # Add a grid page thats basically the old projects page
   Links:
     - Twitch: "https://www.twitch.tv/hoodstrats"
     - Twitter: "https://www.twitter.com/hoodstrats"
