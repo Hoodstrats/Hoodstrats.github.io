@@ -17,7 +17,7 @@ navbar-links:
   Projects: 
     - L.A.D: "LAD"
     - SpotYoinkCLI: "SpotYoinkCLI"
-    - SpotYoinkGodot:  "SpotYoinkGD"
+    - SpotYoinkGUI:  "SpotYoinkGD"
     - SnowMute: "SnowMute"
     # Add a grid page thats basically the old projects page
   Links:

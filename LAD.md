@@ -7,7 +7,7 @@ nav-short: true
 share-img: /assets/img/lad/BL3ICON.png
 ---
 
-## Looter Shooter Automatic Database
+### Looter Shooter Automatic Database
 
 {: .box-error}
 **Note:** [Releases](https://hoodstrats.github.io/LADReleases)
