@@ -6,6 +6,8 @@ thumbnail-img: /assets/img/YIcon.png
 nav-short: true
 share-img: /assets/img/YIcon.png
 ---
+## SpotYoinkCLI 
+
 {: .box-error}
 **Note:** [Releases](https://hoodstrats.github.io/SpotYoinkCLIReleases)
 

@@ -17,7 +17,7 @@ navbar-links:
   Projects: 
     - L.A.D: "LAD"
     - SpotYoink: "SpotYoinkCLI"
-    - Test: {% link pages/test.md %}
+    - Test: {% link /pages/test.md %}
     # Add a grid page thats basically the old projects page
   Links:
     - Twitch: "https://www.twitch.tv/hoodstrats"
