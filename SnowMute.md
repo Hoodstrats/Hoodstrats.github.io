@@ -7,7 +7,7 @@ nav-short: true
 share-img: /assets/img/Snowball.png
 ---
 {: .box-error}
-**Note:** [Releases](https://github.com/Hoodstrats/SnowMute)
+**Note:** [Releases](https://hoodstrats.github.io/SnowMuteReleases)
 
 #### Simple Global Mic Muter
 This program started out as a solution to the Yeti Snowball's non existing Mute button.

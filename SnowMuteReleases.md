@@ -1,9 +1,14 @@
+---
+layout: page
+title: SnowMute Releases
+tags: [project,programming,tool]
+---
 `RELEASE`
 [V1.0.0](https://github.com/Hoodstrats/SnowMute)
 
 4-21-22
 ###### Added
-- Added a small timer of 5 seconds to the OK button when the program is first run (enforce some reading)
+- a small timer of 5 seconds to the OK button when the program is first run (enforce some reading)
 
 1-12-22
 ###### Added
@@ -21,18 +26,20 @@
 	- Mute, Unmute and Exit
 - The mute button itself (the whole program is a mute button) actually works now
 
-### Change
+###### Change
 - Tray icon now needs to be double clicked in order to restore program
 - Exiting the program normally still triggers exit message/delay
 - Refactored all mute toggling functionality
 - Synth speak now run async for better performance/less delay
 
-
 12-26-21
-- Added: different tray icons for Muted and Unmuted
+###### Added
+- different tray icons for Muted and Unmuted
 
-- Fixed: Toggling MUTE now uses built in Audio device mute to avoid volume issues
-- Fixed: Stopped getting and setting volume programmatically
+###### Fixed
+- Toggling MUTE now uses built in Audio device mute to avoid volume issues
+- Stopped getting and setting volume programmatically
 
-- Change: TTS program greeting
-- Change: When pressing CTRL+Q to quit the program TTS says something before exiting 
+###### Changed
+- TTS program greeting
+- When pressing CTRL+Q to quit the program TTS says something before exiting 
