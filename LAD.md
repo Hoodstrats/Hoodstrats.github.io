@@ -6,6 +6,7 @@ thumbnail-img: /assets/img/lad/BL3ICON.png
 nav-short: true
 share-img: /assets/img/lad/BL3ICON.png
 ---
+
 ## Looter Shooter Automatic Database
 
 {: .box-error}
