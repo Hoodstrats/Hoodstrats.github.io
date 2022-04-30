@@ -30,3 +30,17 @@ By default the Keybinds are (these work even without the program being in focus)
 These can be changed under File>Settings, but the program does require a restart after applying changes.
 This is due to the way in which the Key binds are set. They are registered in Windows so that they're able to 
 work while APP isn't in focus.
+
+---
+
+#### Requirements
+- **[>= .NETFramework,Version v4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework)**
+
+- **Currently only for Windows**
+
+---
+
+###### Screenshots
+![About](/assets/img/snowmute/MicMuteCore_About.png)
+![Settings](/assets/img/snowmute/MicMuteCore_Settings.png)
+![MainWindow](/assets/img/snowmute/MicMuteCore_MainWindow.png)
