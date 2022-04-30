@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Spotlight Wallpaper Grabber
-subtitle: CLI version of the SpotYoink.
+subtitle: CLI version of the SpotYoink
 tags: [project,programming,tool]
 thumbnail-img: /assets/img/YIcon.png
 nav-short: true
@@ -20,7 +19,7 @@ share-img: /assets/img/YIcon.png
 - Simply open up your Windows console/terminal and type in **yoink**
 - Follow the on screen instructions and you should have a new folder within your *pictures* folder named *Spotlight* with your new wallpapers
 	- The login screen wallpapers don't update very often, so try to use the command maybe once a week *I've programmed in a daily useage just incase*
-- 
+
 ---
 
 ###### How it works
