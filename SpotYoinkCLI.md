@@ -24,7 +24,7 @@ share-img: /assets/img/YIcon.png
 
 ##### How it works
 
-- Windows actually stores the wallpapers it uses for the login screen temporarily in a folder located at:`Appdata\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets";
+- Windows actually stores the wallpapers it uses for the login screen temporarily in a folder located at:`Appdata\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets`;
 - The files don't have an extension and are a mixed batch of different sizes/aspect ratios
 - What this tool does:
 	-  it grab those files
