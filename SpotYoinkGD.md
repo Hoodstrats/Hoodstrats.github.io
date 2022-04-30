@@ -6,13 +6,13 @@ thumbnail-img: /assets/img/YIconGodot.png
 nav-short: true
 share-img: /assets/img/YIconGodot.png
 ---
-#### SpotYoink Godot Version
+{: .box-error}
+**Note:** [Releases](https://github.com/Hoodstrats/SpotYoinkGD/releases)
+
+##### SpotYoink Godot Version
 - Simple C# Godot GUI implementation of my CLI tool that lets you grab those amazing wallpapers Windows uses for its login screens.
 
 **I used this as an excuse to learn Godot's Mono implementation and messing with UI/Signals was a really good way to do so**
-
-{: .box-error}
-**Note:** [Releases](https://github.com/Hoodstrats/SpotYoinkGD/releases)
 
 ---
 

@@ -6,13 +6,11 @@ thumbnail-img: /assets/img/YIcon.png
 nav-short: true
 share-img: /assets/img/YIcon.png
 ---
-
-#### SpotYoink
-
-- Simple terminal/console tool that lets you grab those amazing wallpapers Windows uses for its login screens.
-
 {: .box-error}
 **Note:** [Releases](https://hoodstrats.github.io/SpotYoinkCLIReleases)
+
+##### SpotYoink
+- Simple terminal/console tool that lets you grab those amazing wallpapers Windows uses for its login screens.
 
 ---
 

@@ -6,11 +6,10 @@ thumbnail-img: /assets/img/lad/BL3ICON.png
 nav-short: true
 share-img: /assets/img/lad/BL3ICON.png
 ---
-
-### Looter Shooter Automatic Database
-
 {: .box-error}
 **Note:** [Releases](https://hoodstrats.github.io/LADReleases)
+
+##### Looter Shooter Automatic Database
 
 This is a simple app I made to keep track of my farm runs in Borderlands. I designed the app to accomplish just a couple tasks. Here are the key features I added and needed to have.
 ~~~

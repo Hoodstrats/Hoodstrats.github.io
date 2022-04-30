@@ -6,11 +6,10 @@ thumbnail-img: /assets/img/Snowball.png
 nav-short: true
 share-img: /assets/img/Snowball.png
 ---
-
-##### Simple Global Mic Muter
-
 {: .box-error}
 **Note:** [Releases](https://github.com/Hoodstrats/SnowMute)
+
+##### Simple Global Mic Muter
 
 ---
 
