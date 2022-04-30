@@ -16,7 +16,7 @@ author: Hoodstrats
 navbar-links:
   Projects: 
     - L.A.D: "LAD"
-    - SpotYoink: "SpotYoinkCLI"
+    - SpotYoink: "/pages/SpotYoinkCLI"
     # Add a grid page thats basically the old projects page
   Links:
     - Twitch: "https://www.twitch.tv/hoodstrats"
