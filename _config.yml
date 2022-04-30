@@ -15,8 +15,8 @@ author: Hoodstrats
 # To add more pages and link them here just add an HTML or MD file to the repo and link it here like the ABOUT ME is linked #
 navbar-links:
   Projects: 
-    - L.A.D: "https://www.hoodstrats.github.io/LAD"
-    - SpotYoink: "https://www.hoodstrats.github.io/SpotYoinkCLI"
+    - L.A.D: "LAD"
+    - SpotYoink: "SpotYoinkCLI"
     # Add a grid page thats basically the old projects page
   Links:
     - Twitch: "https://www.twitch.tv/hoodstrats"
