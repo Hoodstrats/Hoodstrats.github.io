@@ -9,7 +9,7 @@ share-img: /assets/img/Snowball.png
 {: .box-error}
 **Note:** [Releases](https://github.com/Hoodstrats/SnowMute)
 
-##### Simple Global Mic Muter
+#### Simple Global Mic Muter
 ---
 This program started out as a solution to the Yeti Snowball's non existing Mute button.
 I decided to expand on it, so it now works for any input device and I added some QOL features as well. 
@@ -21,9 +21,7 @@ The goals were simple:
 - Minimal effort on the user's end
 
 ###### Usage
-
 ---
-
 By default the Keybinds are (these work even without the program being in focus):
 - Ctrl+M = Mute/Unmute
 - Ctrl+Q = Quit the program 
