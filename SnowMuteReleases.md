@@ -6,6 +6,15 @@ tags: [project,programming,tool]
 `RELEASE`
 [V1.0.0](https://github.com/Hoodstrats/SnowMute)
 
+4-30-22
+###### Added
+- new public method in options script to allow public access to apply settings 
+###### Changed
+- FirstRun variable in settings is now IsFirstRun for clarity 
+- CanRun variable in first run dialogue changed to match FirstRun var in Settings
+###### Fixed
+- FirstRunDialogue now only triggers upon first run and not when About is pressed 
+
 4-21-22
 ###### Added
 - a small timer of 5 seconds to the OK button when the program is first run (enforce some reading)
