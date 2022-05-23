@@ -19,6 +19,7 @@ navbar-links:
     - SpotYoinkCLI: "SpotYoinkCLI"
     - SpotYoinkGUI:  "SpotYoinkGD"
     - SnowMute: "SnowMute"
+    - NumberFantasy: "NumberFantasy"
     # Add a grid page thats basically the old projects page
   Socials:
     - Twitch: "https://www.twitch.tv/hoodstrats"
