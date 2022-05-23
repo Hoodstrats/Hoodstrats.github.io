@@ -8,3 +8,7 @@ layout: page
 |             ![YIconGodot.PNG](assets/img/YIconGodot.png)             |             ![MicMuterIcon.PNG](assets/img/Snowball.png)              |
 | :----------------------------------------------------------------: | :---------------------------------------------------------------------------------: |  |
 | [*Spotlight Grabber Godot GUI*](https://github.com/Hoodstrats/SpotYoinkGD) |[*SnowMute*](https://github.com/Hoodstrats/SnowMute) |
+| :----------------------------------------------------------------: | :---------------------------------------------------------------------------------: |  |
+|             ![YIconGodot.PNG](assets/img/closeupdmg.png)             | 
+| :----------------------------------------------------------------: |
+| [NUMBER FANTASY MOD](https://www.nexusmods.com/monsterhunterrise/mods/720) |
