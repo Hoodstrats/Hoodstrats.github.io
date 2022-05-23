@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Side Project Purge
-subtitle: Working on this instead of that
+subtitle: Working on THIS, instead of THAT
 tags: [projects, general,update]
 ---
 
