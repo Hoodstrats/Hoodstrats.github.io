@@ -12,7 +12,7 @@ This one is a bit different. As much as I love creating stuff from scratch, I've
 I had a lot of fun poking around the game's code, using the framework. Messing around with LUA and hooking onto game methods to see what worked. I finally managed to find the right methods to alter and how to alter them. Here's the mod:
 
 [NUMBER FANTASY MOD](https://www.nexusmods.com/monsterhunterrise/mods/720)
-## NOTE: This is purely cosmetic, so it won't effect your actual damage. 
+#### NOTE: This is purely cosmetic, so it won't effect your actual damage. 
 
 Yep, there it is. This is just one of the many projects I wanted to tackle/finish. Theres still a few more projects I want to finish up here, currently up in the queue is another Twitch Bot for my channel. I've been cannibalizing some of the code from my Twitch Overlay game, generalizing it a bit and adding more functionality. I plan on streaming some DEV at some point, but I've been very scattered brain lately and my schedule is all over the place. I'll make another post about that when the time is right, time to AFK.
 
